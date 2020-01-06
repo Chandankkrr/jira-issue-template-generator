@@ -1,6 +1,6 @@
 # jira-issue-template-generator
 
-Changelog information for JIRA Issue Template Generator Google Chrome Extension.
+Changelog information for Jira Issue Template Generator Google Chrome Extension.
 
 ## Version 1.0.8 - 06 January 2020 🎉
 
@@ -10,14 +10,14 @@ Changelog information for JIRA Issue Template Generator Google Chrome Extension.
 
 ## Version 1.0.7 - 12 November 2019
 
-### JIRA Service Desk Classic project support
+### Jira Service Desk Classic project support
 
-- The template now supports JIRA Service Desk Classic project
+- The template now supports Jira Service Desk Classic project
 
 ## Version 1.0.6 - 11 November 2019
 
 ### Ability to apply template on Close issue forms
 
-- The template generator works on JIRA Close issue screen. The add template toolbar now appears on Close issue, Reopen Issue and Resolve issue forms. 
+- The template generator works on Jira Close issue screen. The add template toolbar now appears on Close issue, Reopen Issue and Resolve issue forms. 
   
 - Other minor improvements
