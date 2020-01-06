@@ -2,6 +2,12 @@
 
 Changelog information for JIRA Issue Template Generator Google Chrome Extension.
 
+## Version 1.0.8 - 06 January 2020 🎉
+
+- Enabled the template for desktop version of Jira that has custom url matching `https://jira-software/*` and `http://jira-software/*`
+- This is a temporary workaround until a viable solution is developed
+
+
 ## Version 1.0.7 - 12 November 2019
 
 ### JIRA Service Desk Classic project support
