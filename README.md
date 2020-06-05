@@ -2,6 +2,12 @@
 
 Changelog information for Jira Issue Template Generator Google Chrome Extension.
 
+## Version 1.0.9 - 05 June 2020 🎉
+
+- Improvements in speed 🔥
+- The extension has been updated to use `MutationObserver` api to detect when the Jira issue dialog is visible in the `DOM` and then immediately apply a template 
+- Other minor improvements
+
 ## Version 1.0.8 - 06 January 2020 🎉
 
 - Enabled the template for desktop version of Jira that has custom url matching `https://jira-software/*` and `http://jira-software/*`
