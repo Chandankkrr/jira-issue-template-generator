@@ -2,6 +2,13 @@
 
 Changelog information for Jira Issue Template Generator Google Chrome Extension.
 
+## Version 1.0.10 - 12 July 2020 🎉
+
+- Ability to add custom domains 🔥🔥🔥
+- Use desktop version of Jira that has a custom domain? You can now enable the extension to work on your custom domain
+- Add your custom domain to the "Allowed domains" list via the options page
+- Add in the host of the site url into "Allowed domains" input and hit save
+
 ## Version 1.0.9 - 05 June 2020 🎉
 
 - Improvements in speed 🔥
